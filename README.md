@@ -3,7 +3,8 @@ This project combines a CoreXY pen plotter with OpenCV gesture recognition.\
 With this setup, you can draw pictures or write messages simply by making gestures with your hand!
 
 ### Getting Started
-
+Program Structure:
+![alt text](https://github.com/mistlet0e/Canvas-on-the-air/blob/main/images/structure.png?raw=true)
 
 ### CoreXY pen plotter
 Computer with OpenCV installed
